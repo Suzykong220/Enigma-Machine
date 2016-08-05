@@ -2,19 +2,8 @@
 // Title:            Enigma
 // Files:            Enigma.java
 // Semester:         Summer 2016
-//
-// Author:           Alexandra Kauffman
-// Email:            kauffman2@wisc.edu
-// CS Login:         alexandra
-// Lecturer's Name:  Adalbert Gerald Soosai 
-// Lab Section:      302-001
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ////////////////////
-// Pair Partner:     Qingxu Kong
+// Author:     	     Qingxu Kong
 // Email:            qkong5@wisc.edu
-// CS Login:         qkong5
-// Lecturer's Name:  Adalbert Gerald Soosai
-// Lab Section:      302-001
 //////////////////////////// 80 columns wide //////////////////////////////////
 
 /** 
@@ -34,7 +23,7 @@ public class Enigma {
 	 */
 
 	/**
-	 * Start your users off with a welcome message, such as Willkommen auf der
+	 * Start users off with a welcome message, such as Willkommen auf der
 	 * Enigma-Maschine (that's "Welcome to the Enigma Machine" in German.)
 	 */
 
